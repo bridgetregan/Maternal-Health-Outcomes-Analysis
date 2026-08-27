@@ -32,4 +32,4 @@ To be completed.
 To be completed.
 
 ### Data Quality
-To be completed.
+In the original Excel file, the Births column is stored as text but appears numeric. ISNUMBER( ) function returned FALSE confirming this hypothesis. Converting Births column to a numeric data type during cleanup is necessary. 
