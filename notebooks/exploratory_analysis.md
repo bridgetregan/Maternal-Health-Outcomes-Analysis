@@ -33,3 +33,4 @@ To be completed.
 
 ### Data Quality
 In the original Excel file, the Births column is stored as text but appears numeric. ISNUMBER( ) function returned FALSE confirming this hypothesis. Converting Births column to a numeric data type during cleanup is necessary. 
+In the original Excel file, all average-measure columns are recognized as numeric. The only exception is the Births column: its values are stored as text but appear numeric. 
