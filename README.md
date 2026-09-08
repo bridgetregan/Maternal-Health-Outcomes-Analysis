@@ -8,6 +8,13 @@ Investigate which healthcare access, socioeconomic, and public health factors ar
 
 What factors are most strongly associated with maternal health outcomes across U.S. states?
 
+## Methodology
+
+### Geographic Scope
+
+This analysis includes the 50 U.S. states and the District of Columbia. U.S. territories were excluded to maintain a consistent geographic scope across the state-level datasets used in the analysis.
+
+
 ## Data Sources
 
 This project combines publicly available datasets from:
