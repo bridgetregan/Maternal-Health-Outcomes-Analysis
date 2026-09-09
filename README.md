@@ -14,6 +14,9 @@ What factors are most strongly associated with maternal health outcomes across U
 
 This analysis includes the 50 U.S. states and the District of Columbia. U.S. territories were excluded to maintain a consistent geographic scope across the state-level datasets used in the analysis.
 
+### National Benchmark
+
+The 2023 national severe maternal morbidity rate was retained as a descriptive benchmark for comparison with state-level rates. Because the national estimate represents an aggregate rather than an independent state-level observation, it was excluded from correlation, regression, and other state-level statistical analyses.
 
 ## Data Sources
 
