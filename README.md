@@ -12,7 +12,7 @@ What factors are most strongly associated with maternal health outcomes across U
 
 ### Geographic Scope
 
-This analysis includes the 50 U.S. states and the District of Columbia. U.S. territories were excluded to maintain a consistent geographic scope across the state-level datasets used in the analysis.
+This analysis includes U.S. states and the District of Columbia with available 2023 severe maternal morbidity data. Jurisdictions without available 2023 outcome data were excluded from the final analytical dataset.
 
 ### National Benchmark
 
